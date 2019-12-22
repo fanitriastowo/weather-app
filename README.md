@@ -1,2 +1,3 @@
 # how to run
-node server.js
+1. node server.js
+2. localhost:3000
